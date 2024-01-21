@@ -39,9 +39,3 @@ If you're a fellow wanderer in the realms of code or just someone curious about 
 - 💼 LinkedIn: [hambosto](https://www.linkedin.com/in/hambosto/)
 
 Thanks for stopping by! May your code be bug-free and your dreams be limitless. ✨
-
-
-# 📊 GitHub Stats:
-![hambosto's Stats](https://github-readme-stats.vercel.app/api?username=hambosto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![hambosto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hambosto&theme=vue-dark&hide_border=true)
-![hambosto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hambosto&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
