@@ -1,14 +1,12 @@
-# 👋 Hello World! 
+# 👋 Greetings, World!
 
-Welcome to my enchanted code realm! 🚀 I'm Ilham, a passionate code crafter on a thrilling adventure through the mystical realms of Python and JavaScript. By day, I weave spells as a web sorcerer, crafting digital wonders that dance across the screen. By night, I transform into a dreamer, envisioning new possibilities and magical solutions.
+Welcome to my enchanted coding realm! 🚀 I'm Ilham, a passionate code crafter embarking on a thrilling journey through the mystical realms of Python, JavaScript, Golang, and even the ancient arts of Bash. By day, I wield spells as a code sorcerer, crafting digital wonders that dance across the screen. By night, I transform into a dreamer, envisioning new possibilities and magical solutions.
 
 ## 🌟 About Me
 
-- 🧙‍♂️ **Code Wizardry:** Mastering the arcane arts of Python and JavaScript, I conjure elegant solutions to real-world problems.
+- 🧙‍♂️ **Code Wizardry:** Mastering the arcane arts of Python, JavaScript, Golang, and Bash, I conjure elegant solutions to real-world problems.
   
-- 🌐 **Web Sorcerer:** Crafting captivating web experiences that blend functionality and enchantment, one line of code at a time.
-
-- 🚀 **Explorer of Technologies:** Always on a quest to discover and harness the power of the latest tools and frameworks.
+- 🚀 **Explorer of Technologies:** Always on a quest to discover and harness the power of the latest tools and frameworks, including microservices, Docker, and Kubernetes.
 
 ## ✨ Let's Build Magic Together!
 
@@ -26,9 +24,30 @@ I believe in the power of collaboration and the magic that happens when like-min
   - Enchanting Animations with GSAP
   - Potent Potions with Node.js
 
+- **Golang Enchantments:**
+  - Channeling Concurrency with Goroutines
+  - Crafting Potions with Gin
+
+- **Bash Charms:**
+  - Scripting Sorcery for Automation
+  - Enchanting Command Line Interfaces
+
+- **Microservice Magic:**
+  - Architecting Enchanted Microservices
+  - Crafting Resilient APIs with REST and gRPC
+  - API Alchemy with FastAPI (Python) and Gin (Golang)
+
+- **Docker Conjurations:**
+  - Containerizing Spells for Portability
+  - Orchestrating Magic with Docker Compose
+
+- **Kubernetes Enchantments:**
+  - Harnessing the Power of Orchestration
+  - Scaling Spells with Kubernetes
+
 ## 🌌 Magic in the Making
 
-Currently, I'm brewing a potion that combines the power of AI and web development to create an interactive spellcasting experience. Stay tuned for updates on this mystical endeavor!
+Currently, I'm brewing a potion that combines the power of AI and code development to create an interactive spellcasting experience. Stay tuned for updates on this mystical endeavor!
 
 ## 📬 Let's Connect!
 
