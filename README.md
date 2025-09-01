@@ -30,7 +30,7 @@
 - 🧑‍💻 Software Engineer | Computer Science Student
 - 🌏 Based in Indonesia
 - 🧠 Always learning and exploring new technologies
-- ❤️ Open source contributor, Linux & Nix lover
+- ❤️ Open source contributor, Linux & Nix enthusiast
 
 ---
 
