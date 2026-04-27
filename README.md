@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=7FD7E0&center=true&width=600&lines=Hi+there!+I'm+hambosto+%F0%9F%91%8B;Software+Engineer+%7C+Open+Source+Fan;Linux+%26+Nix+Enthusiast;Mie+Ayam+%26+Tea+Enjoyer;Always+Learning+and+Exploring+Tech!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+there!+I'm+hambosto;Software+Engineer+%7C+Linux+Enthusiast;Mie+Ayam+%2B+Ice+Tea+Enjoyer">
 </p>
 
 <!-- Tech Stack Badges -->
