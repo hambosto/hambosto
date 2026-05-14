@@ -30,7 +30,7 @@
 - 🧑‍💻 Software Engineer | Computer Science Student
 - 🌏 Based in Indonesia
 - 🧠 Always learning and exploring new technologies
-- ❤️ Open source contributor, Linux & Nix enthusiast
+- ❤️ Linux Enthusiast
 
 ---
 
@@ -38,19 +38,18 @@
 
 - **Languages:** Python, Rust, Go, TypeScript
 - **Dev Tools:** Nix, Linux, Docker, Git
-- **Other:** REST APIs, CLI, automation, FOSS
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hambosto&show_icons=true&theme=tokyonight&hide=issues,contribs" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hambosto&layout=compact&theme=tokyonight" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=hambosto&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hambosto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hambosto&theme=tokyo-night&custom_title=Contribution+Graph"/>
+  <img src="https://streak-stats.demolab.com/?user=hambosto&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -74,7 +73,6 @@
 ## 🧩 Fun Facts
 
 - 🚀 Currently studying Computer Science
-- 💚 Passionate about open source, Linux, and automation
 - 🌐 Loves exploring new tech and building cool stuff
 - 🍜 Mie ayam & ☕ tea are the best dev fuel
 - 🤓 Pretending to know what I'm doing since day one
